@@ -23,19 +23,19 @@ Sobre a realização do trabalho, cada exercício contém seu código resposta, 
 
 ### Exercício 01 - Médio (Luis)
 [Problem 1385D - a-Good String](https://codeforces.com/problemset/problem/1385/D)
-![Ac 1385D](./assets/1385D.png)
+![Ac 1385D](./exercicio_1/god_string.png)
 
 ### Exercício 02 - Difícil (Luis)
 [Problem 1548B - Integers Have Friends](https://codeforces.com/problemset/problem/1548/B)
-![Ac 1548B](./assets/1548B.png)
+![Ac 1548B](./exercicio_2/158B.png)
 
 ### Exercício 03 - Difícil (Bruno)
 [Problem 559B - Equivalent Strings](https://codeforces.com/problemset/problem/559/B)
-![Ac 559B](./assets/559B.png)
+![Ac 559B](./exercicio_3/559B.png)
 
 ### Exercício 04 - Médio (Bruno)
 [Problem 1490D - Permutation Transformation](https://codeforces.com/problemset/problem/1490/D)
-![Ac 1490D](./assets/1490D.png)
+![Ac 1490D](./exercicio_4/1490D.png)
 
 ## Vídeo de apresentação do Trabalho
 [Vídeo](link)
