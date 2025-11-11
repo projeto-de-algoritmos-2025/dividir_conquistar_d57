@@ -38,4 +38,4 @@ Sobre a realização do trabalho, cada exercício contém seu código resposta, 
 ![Ac 1490D](./assets/1490D.png)
 
 ## Vídeo de apresentação do Trabalho
-[Vídeo](link)
+[Vídeo](https://youtu.be/lrjHpHuOD7E)
